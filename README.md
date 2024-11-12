@@ -68,11 +68,16 @@
 
 <h3 align="center"><strong>GitHub Stats</strong></h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wickdynex&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=wickdynex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10" height="200" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wickdynex&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph" style="border: 2px solid #ddd; border-radius: 10px; display: inline-block;" />
+
+  <img src="https://streak-stats.demolab.com?user=wickdynex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10" height="200" alt="streak graph" style="border: 2px solid #ddd; border-radius: 10px; display: inline-block;" />
 </div>
 
 <hr>
 
 <h3 align="center"><strong>GitHub Activity Tracker</strong></h3>
-<img src="https://raw.githubusercontent.com/wickdynex/wickdynex/output/snake.svg" alt="Snake animation" />
+<div align="center" style="border: 2px solid #ddd; padding: 20px; border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/wickdynex/wickdynex/output/snake.svg" alt="Snake animation" />
+</div>
+
+
