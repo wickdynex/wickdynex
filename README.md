@@ -76,4 +76,3 @@
 
 <h3 align="center"><strong>GitHub Activity Tracker</strong></h3>
 <img src="https://raw.githubusercontent.com/wickdynex/wickdynex/output/snake.svg" alt="Snake animation" />
-
