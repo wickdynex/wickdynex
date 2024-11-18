@@ -75,17 +75,17 @@
 <hr>
 
 <h3 align="center"><strong>GitHub Activity Tracker</strong></h3>
-<img src="https://raw.githubusercontent.com/wickdynex/wickdynex/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-dark.svg" alt="Snake animation" />
 
 <h3 align="center"><strong>GitHub Activity Tracker</strong></h3>
 
 <picture>
   <!-- If the user prefers dark mode, show snake-dark.svg -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wickdynex/wickdynex/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-dark.svg" />
   
   <!-- If the user prefers light mode, show snake.svg -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wickdynex/wickdynex/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-dark.svg" />
   
   <!-- Default image if media queries are not supported -->
-  <img src="https://raw.githubusercontent.com/wickdynex/wickdynex/output/snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-dark.svg" alt="Snake animation" />
 </picture>
