@@ -75,9 +75,6 @@
 <hr>
 
 <h3 align="center"><strong>GitHub Activity Tracker</strong></h3>
-<img src="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-dark.svg" alt="Snake animation" />
-
-<h3 align="center"><strong>GitHub Activity Tracker</strong></h3>
 
 <picture>
   <!-- If the user prefers dark mode, show snake-dark.svg -->
