@@ -81,7 +81,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-dark.svg" />
   
   <!-- If the user prefers light mode, show snake.svg -->
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-light.svg" />
   
   <!-- Default image if media queries are not supported -->
   <img src="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-dark.svg" alt="Snake animation" />
