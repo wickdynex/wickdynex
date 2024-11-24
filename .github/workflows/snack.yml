@@ -18,14 +18,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      - name: generate snake-dark.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake-dark.svg?palette=github-dark
 
 
-      - name: push snake.svg to the output branch
+      - name: push snake.svg to the gh-pages branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: gh-pages
