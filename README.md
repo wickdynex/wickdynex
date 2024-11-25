@@ -68,8 +68,24 @@
 
 <h3 align="center"><strong>GitHub Stats</strong></h3>
 <div align="center">
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wickdynex&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
+
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wickdynex&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=wickdynex&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph" />
+  </picture>
+
+  <picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wickdynex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10" />
+
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=wickdynex&locale=en&mode=daily&theme=meta-light&hide_border=false&border_radius=10" />
+
   <img src="https://streak-stats.demolab.com?user=wickdynex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10" height="200" alt="streak graph" />
+  </picture>
+
 </div>
 
 <hr>
