@@ -81,7 +81,7 @@
 
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wickdynex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10" />
 
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=wickdynex&locale=en&mode=daily&theme=meta-light&hide_border=false&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=wickdynex&locale=en&mode=daily&theme=meta-light&hide_border=false&border_radius=10&border=e0e0e0" />
 
   <img src="https://streak-stats.demolab.com?user=wickdynex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10" height="200" alt="streak graph" />
   </picture>
