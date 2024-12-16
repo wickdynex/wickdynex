@@ -92,13 +92,14 @@
 
 <h3 align="center"><strong>GitHub Activity Tracker</strong></h3>
 
+<!-- Wrap the GitHub Activity Tracker image with border styles -->
 <picture>
   <!-- If the user prefers dark mode, show snake-dark.svg -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wickdynex/wickdynex/gh-pages/snake-dark.svg" />
   
   <!-- If the user prefers light mode, show snake.svg -->
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-light.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wickdynex/wickdynex/gh-pages/snake-light.svg" />
   
-  <!-- Default image if media queries are not supported -->
-  <img src="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-dark.svg" alt="Snake animation" />
+  <!-- Default image if the browser does not support media queries -->
+  <img src="https://raw.githubusercontent.com/wickdynex/wickdynex/gh-pages/snake-dark.svg" alt="Snake animation" style="border: 2px solid #e0e0e0; border-radius: 10px; padding: 10px;" />
 </picture>
