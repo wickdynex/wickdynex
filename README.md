@@ -92,14 +92,13 @@
 
 <h3 align="center"><strong>GitHub Activity Tracker</strong></h3>
 
-<!-- Wrap the GitHub Activity Tracker image with border styles -->
 <picture>
-  <!-- If the user prefers dark mode, show snake-dark.svg with border -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wickdynex/wickdynex/gh-pages/snake-dark.svg" style="border: 2px solid #e0e0e0; border-radius: 10px; padding: 10px;" />
+  <!-- If the user prefers dark mode, show snake-dark.svg -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-dark.svg" />
   
-  <!-- If the user prefers light mode, show snake-light.svg with border -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wickdynex/wickdynex/gh-pages/snake-light.svg" style="border: 2px solid #e0e0e0; border-radius: 10px; padding: 10px;" />
+  <!-- If the user prefers light mode, show snake.svg -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-light.svg" />
   
-  <!-- Default image if the browser does not support media queries with border -->
-  <img src="https://raw.githubusercontent.com/wickdynex/wickdynex/gh-pages/snake-dark.svg" alt="Snake animation" style="border: 2px solid #e0e0e0; border-radius: 10px; padding: 10px;" />
+  <!-- Default image if media queries are not supported -->
+  <img src="https://github.com/wickdynex/wickdynex/blob/gh-pages/snake-dark.svg" alt="Snake animation" />
 </picture>
